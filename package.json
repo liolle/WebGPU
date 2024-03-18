@@ -1,0 +1,14 @@
+{
+  "name": "WebGPU",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "npx serve"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
